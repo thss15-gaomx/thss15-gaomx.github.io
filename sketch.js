@@ -1,7 +1,7 @@
 let mySound;
 
 function preload() {
-    mySound = loadSound('ticking.mp3');
+    mySound = loadSound('assets/ticking.mp3');
 }
 
 function setup() {
