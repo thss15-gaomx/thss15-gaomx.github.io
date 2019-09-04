@@ -7,7 +7,7 @@ function preload() {
 function setup() {
     createCanvas(400, 400);
     angleMode(DEGREES);
-    mySound.setVolume(0.1);
+    mySound.setVolume(0.5);
     mySound.play();
 }
 
